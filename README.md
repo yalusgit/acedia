@@ -1,5 +1,5 @@
 # acedia
-a simple cli habit tracker with a journal and calendar 
+a simple cli habit tracker with a journal and calendar, 
 all habits events and journal entries will be stored in (/home/**USER**/.local/share/habit)
 
 --for further ease of access add acedia to path--
