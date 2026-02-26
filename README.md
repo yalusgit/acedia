@@ -5,5 +5,6 @@ all habits events and journal entries will be stored in (/home/**USER**/.local/s
 --for further ease of access add acedia to path--
 
 sudo cp acedia.py /usr/local/bin/**USER**
+
 sudo chmod +x /usr/local/bin/**USER**
 
